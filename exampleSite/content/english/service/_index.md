@@ -1,6 +1,6 @@
 ---
-title: "Service"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: Service
+description: Analisis Data
+bg_image: images/featue-bg.jpg
+
 ---
